@@ -1,7 +1,5 @@
 * [How browser works](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork) 
-
 * [What is the scope of variables in javascript](http://stackoverflow.com/questions/500431/what-is-the-scope-of-variables-in-javascript)
-
 * [How do javascript closures work](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
-
 * [window.onload vs $(document).ready()](http://stackoverflow.com/questions/3698200/window-onload-vs-document-ready)
+* [Function expression vs declaration](http://stackoverflow.com/questions/1013385/what-is-the-difference-between-a-function-expression-vs-declaration-in-javascrip)
