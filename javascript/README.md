@@ -4,3 +4,4 @@
 * [window.onload vs $(document).ready()](http://stackoverflow.com/questions/3698200/window-onload-vs-document-ready)
 * [Function expression vs declaration](http://stackoverflow.com/questions/1013385/what-is-the-difference-between-a-function-expression-vs-declaration-in-javascrip)
 * [Difference between == and ===](http://stackoverflow.com/questions/523643/difference-between-and-in-javascript)
+* [Function prototype vs constructor](http://stackoverflow.com/questions/4508313/advantages-of-using-prototype-vs-defining-methods-straight-in-the-constructor)
