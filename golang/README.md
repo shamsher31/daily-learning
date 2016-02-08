@@ -5,3 +5,4 @@
 * [JSON struct composition](http://attilaolah.eu/2014/09/10/json-and-struct-composition-in-go/)
 * [JSON decoding in Go](http://attilaolah.eu/2013/11/29/json-decoding-in-go/)
 * [About Array and Slices, minimum you should know](http://openmymind.net/The-Minimum-You-Need-To-Know-About-Arrays-And-Slices-In-Go/)
+* [How to use Interface in GO](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
