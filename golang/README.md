@@ -18,3 +18,6 @@
 
 ### File read & write
 * [Read text file into string array](http://stackoverflow.com/questions/5884154/golang-read-text-file-into-string-array-and-write)
+
+### Misc
+* [Building web crawler](https://jdanger.com/build-a-web-crawler-in-go.html)
