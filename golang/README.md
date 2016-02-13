@@ -21,3 +21,4 @@
 
 ### Misc
 * [Building web crawler](https://jdanger.com/build-a-web-crawler-in-go.html)
+* [Different ways of using switch statement](https://github.com/golang/go/wiki/Switch)
