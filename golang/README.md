@@ -19,6 +19,9 @@
 ### File read & write
 * [Read text file into string array](http://stackoverflow.com/questions/5884154/golang-read-text-file-into-string-array-and-write)
 
+### Blogs to follow
+* [deferpanic](https://deferpanic.com/blog/)
+
 ### Misc
 * [Building web crawler](https://jdanger.com/build-a-web-crawler-in-go.html)
 * [Different ways of using switch statement](https://github.com/golang/go/wiki/Switch)
