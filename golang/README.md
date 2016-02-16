@@ -25,3 +25,4 @@
 ### Misc
 * [Building web crawler](https://jdanger.com/build-a-web-crawler-in-go.html)
 * [Different ways of using switch statement](https://github.com/golang/go/wiki/Switch)
+* [Net Context and HTTP Handler](https://joeshaw.org/net-context-and-http-handler/)
