@@ -28,3 +28,4 @@
 * [Different ways of using switch statement](https://github.com/golang/go/wiki/Switch)
 * [Net Context and HTTP Handler](https://joeshaw.org/net-context-and-http-handler/)
 * [How to use Context](https://blog.golang.org/context)
+* [Remote IP Address with Go](https://husobee.github.io/golang/ip-address/2015/12/17/remote-ip-go.html)
