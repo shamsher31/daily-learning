@@ -12,6 +12,7 @@
 
 ### Array and Slices
 * [About Array and Slices, minimum you should know](http://openmymind.net/The-Minimum-You-Need-To-Know-About-Arrays-And-Slices-In-Go/)
+* [More usage of Slices](http://blog.golang.org/slices)
 
 ### Interface
 * [How to use Interface in GO](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
