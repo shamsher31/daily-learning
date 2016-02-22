@@ -4,6 +4,7 @@
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [Go Success Stories](https://github.com/golang/go/wiki/SuccessStories)
 * [Popular Modules](https://github.com/shamsher31/Technologies-for-large-scale-distributed-application/wiki/GoLang-Modules)
+* [Getting started with GO](http://www.sitepoint.com/getting-started-go/)
 
 ### Go JSON
 * [Go and JSON](https://eager.io/blog/go-and-json/)
