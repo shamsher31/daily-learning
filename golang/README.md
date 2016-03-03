@@ -30,3 +30,4 @@
 * [Net Context and HTTP Handler](https://joeshaw.org/net-context-and-http-handler/)
 * [How to use Context](https://blog.golang.org/context)
 * [Remote IP Address with Go](https://husobee.github.io/golang/ip-address/2015/12/17/remote-ip-go.html)
+* [Generate Randome String](http://stackoverflow.com/questions/22892120/how-to-generate-a-random-string-of-a-fixed-length-in-golang)
