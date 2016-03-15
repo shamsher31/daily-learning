@@ -12,6 +12,7 @@
 ## Angular 2
 #### Blogs to follow
 * [Exploring Angular 2](http://blog.thoughtram.io/exploring-angular-2/)
+* [Ionic using Angular2](http://www.joshmorony.com/category/ionic-tutorials/)
 
 
 
