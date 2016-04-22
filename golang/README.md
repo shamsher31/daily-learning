@@ -23,6 +23,7 @@
 
 ### Blogs to follow
 * [deferpanic](https://deferpanic.com/blog/)
+* [Micro Blog](https://blog.micro.mu/)
 
 ### Misc
 * [Building web crawler](https://jdanger.com/build-a-web-crawler-in-go.html)
