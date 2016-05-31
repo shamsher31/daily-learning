@@ -10,6 +10,10 @@
 * [What is the need of the directive's link function when we already had directive's controller with scope?](http://stackoverflow.com/questions/20018507/angularjs-what-is-the-need-of-the-directives-link-function-when-we-already-had)
 
 ## Angular 2
+
+#### HTTP
+* [HTTP, Observables, and concurrent data loading](http://www.metaltoad.com/blog/angular-2-http-observables)
+
 #### Blogs to follow
 * [Exploring Angular 2](http://blog.thoughtram.io/exploring-angular-2/)
 * [Ionic using Angular2](http://www.joshmorony.com/category/ionic-tutorials/)
