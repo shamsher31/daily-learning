@@ -10,6 +10,7 @@
 * [What is the need of the directive's link function when we already had directive's controller with scope?](http://stackoverflow.com/questions/20018507/angularjs-what-is-the-need-of-the-directives-link-function-when-we-already-had)
 
 ## Angular 2
+* [Workflow and setup explaination](http://mitranim.com/thoughts/next-generation-today/)
 
 #### HTTP
 * [HTTP, Observables, and concurrent data loading](http://www.metaltoad.com/blog/angular-2-http-observables)
