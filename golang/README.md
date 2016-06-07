@@ -21,6 +21,10 @@
 ### File read & write
 * [Read text file into string array](http://stackoverflow.com/questions/5884154/golang-read-text-file-into-string-array-and-write)
 
+### Goroutine and Channels
+* [Usage of goroutines & channels](http://www.abronan.com/introduction-to-goroutines-and-go-channels/)
+
+
 ### Blogs to follow
 * [deferpanic](https://deferpanic.com/blog/)
 * [Micro Blog](https://blog.micro.mu/)
