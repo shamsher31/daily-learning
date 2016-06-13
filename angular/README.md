@@ -16,6 +16,7 @@
 * [HTTP, Observables, and concurrent data loading](http://www.metaltoad.com/blog/angular-2-http-observables)
 
 #### Blogs to follow
+* [From the Core Member of Angular2](http://victorsavkin.com/)
 * [Exploring Angular 2](http://blog.thoughtram.io/exploring-angular-2/)
 * [Ionic using Angular2](http://www.joshmorony.com/category/ionic-tutorials/)
 
