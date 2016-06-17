@@ -24,6 +24,8 @@
 ### Goroutine and Channels
 * [Usage of goroutines & channels](http://www.abronan.com/introduction-to-goroutines-and-go-channels/)
 
+### Stackoverflow QA
+* [What is ...interface{}](http://stackoverflow.com/questions/23669720/dot-dot-dot-in-golang-interface-with-empty-braces)
 
 ### Blogs to follow
 * [deferpanic](https://deferpanic.com/blog/)
