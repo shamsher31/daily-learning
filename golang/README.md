@@ -31,6 +31,8 @@
 * [deferpanic](https://deferpanic.com/blog/)
 * [Micro Blog](https://blog.micro.mu/)
 * [Gopher Academy](https://blog.gopheracademy.com/)
+* [Golang Success Stories](https://github.com/golang/go/wiki/SuccessStories)
+* [Why Golang](https://github.com/golang/go/wiki/whygo)
 
 ### Misc
 * [Building web crawler](https://jdanger.com/build-a-web-crawler-in-go.html)
