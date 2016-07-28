@@ -28,6 +28,7 @@
 * [What is ...interface{}](http://stackoverflow.com/questions/23669720/dot-dot-dot-in-golang-interface-with-empty-braces)
 
 ### Blogs to follow
+* [Applied Go](https://appliedgo.net/)
 * [deferpanic](https://deferpanic.com/blog/)
 * [Micro Blog](https://blog.micro.mu/)
 * [Gopher Academy](https://blog.gopheracademy.com/)
