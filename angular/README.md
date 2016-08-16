@@ -14,6 +14,7 @@
 
 #### HTTP
 * [HTTP, Observables, and concurrent data loading](http://www.metaltoad.com/blog/angular-2-http-observables)
+* [Observable and reactive programming in Angular 2](http://blog.rangle.io/observables-and-reactive-programming-in-angular-2/)
 
 #### Blogs to follow
 * [From the Core Member of Angular2](http://victorsavkin.com/)
