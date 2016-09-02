@@ -31,6 +31,7 @@
 * [Applied Go](https://appliedgo.net/)
 * [deferpanic](https://deferpanic.com/blog/)
 * [Micro Blog](https://blog.micro.mu/)
+* [Calhoun Blog](http://www.calhoun.io/)
 * [Gopher Academy](https://blog.gopheracademy.com/)
 * [Golang Success Stories](https://github.com/golang/go/wiki/SuccessStories)
 * [Why Golang](https://github.com/golang/go/wiki/whygo)
