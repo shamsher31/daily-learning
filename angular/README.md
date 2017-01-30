@@ -17,6 +17,7 @@
 * [Observable and reactive programming in Angular 2](http://blog.rangle.io/observables-and-reactive-programming-in-angular-2/)
 
 #### Blogs to follow
+* [Angular University](http://blog.angular-university.io/)
 * [From the Core Member of Angular2](http://victorsavkin.com/)
 * [Exploring Angular 2](http://blog.thoughtram.io/exploring-angular-2/)
 * [Ionic using Angular2](http://www.joshmorony.com/category/ionic-tutorials/)
