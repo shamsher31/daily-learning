@@ -27,6 +27,9 @@
 ### Stackoverflow QA
 * [What is ...interface{}](http://stackoverflow.com/questions/23669720/dot-dot-dot-in-golang-interface-with-empty-braces)
 
+### Monitoring Go
+* [Monitoring Go Apps](https://blog.dekstroza.io/monitoring-software-written-in-golang/)
+
 ### Blogs to follow
 * [Applied Go](https://appliedgo.net/)
 * [deferpanic](https://deferpanic.com/blog/)
